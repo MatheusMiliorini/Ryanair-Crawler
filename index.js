@@ -6,9 +6,12 @@ import { MongoClient } from "mongodb";
 const MONGO_URI = `mongodb+srv://${process.env.MONGO_USER}:${process.env.MONGO_PASS}@cluster0.ndshapd.mongodb.net/?retryWrites=true&w=majority`;
 
 const DATE_START = "2023-01-07";
+const DEPARTURE_AIRPORT = "DUB"; // Shannon - SNN / Dublin - DUB
 const DAYS = 2;
 const ITERATIONS = 50;
 const WEEK = 7;
+const OUTBOUND_TIME_LIMIT = "12:00";
+const RETURN_TIME_LIMIT = "12:00";
 
 const client = new MongoClient(MONGO_URI);
 
@@ -27,7 +30,7 @@ async function run() {
     endDate = endDate.toISOString().split("T")[0];
 
     const { data } = await axios.get(
-      `https://www.ryanair.com/api/farfnd/v4/roundTripFares?departureAirportIataCode=DUB&outboundDepartureDateFrom=${startDate}&market=en-ie&adultPaxCount=1&outboundDepartureDateTo=${startDate}&inboundDepartureDateFrom=${endDate}&inboundDepartureDateTo=${endDate}&outboundDepartureDaysOfWeek=SATURDAY&durationFrom=2&durationTo=2&outboundDepartureTimeFrom=00:00&outboundDepartureTimeTo=12:00&inboundDepartureTimeFrom=00:00&inboundDepartureTimeTo=13:00`
+      `https://www.ryanair.com/api/farfnd/v4/roundTripFares?departureAirportIataCode=${DEPARTURE_AIRPORT}&outboundDepartureDateFrom=${startDate}&market=en-ie&adultPaxCount=1&outboundDepartureDateTo=${startDate}&inboundDepartureDateFrom=${endDate}&inboundDepartureDateTo=${endDate}&outboundDepartureDaysOfWeek=SATURDAY&durationFrom=${DAYS}&durationTo=${DAYS}&outboundDepartureTimeFrom=00:00&outboundDepartureTimeTo=${OUTBOUND_TIME_LIMIT}&inboundDepartureTimeFrom=00:00&inboundDepartureTimeTo=${RETURN_TIME_LIMIT}`
     );
     const { fares } = data;
     console.log(`[${i}] Inserting ${fares.length} flights into DB...`);
