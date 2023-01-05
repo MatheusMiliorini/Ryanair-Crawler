@@ -32,31 +32,36 @@ async function run() {
     );
     const { fares } = data;
     console.log(`[${i}] Inserting ${fares.length} flights into DB...`);
-    for (let j = 0; j < fares.length; j++) {
+    fares.forEach((fare) => {
       const data = {
         outbound: {
-          departure: fares[j].outbound.departureDate,
-          arrival: fares[j].outbound.arrivalDate,
+          departure: fare.outbound.departureDate,
+          arrival: fare.outbound.arrivalDate,
         },
         return: {
-          departure: fares[j].inbound.departureDate,
-          arrival: fares[j].inbound.arrivalDate,
+          departure: fare.inbound.departureDate,
+          arrival: fare.inbound.arrivalDate,
         },
-        price: fares[j].summary.price.value,
-        from: fares[j].outbound.departureAirport.name,
-        to: fares[j].outbound.arrivalAirport.name,
-        country: fares[j].outbound.arrivalAirport.countryName,
-        days: fares[j].summary.tripDurationDays,
+        price: fare.summary.price.value,
+        from: fare.outbound.departureAirport.name,
+        to: fare.outbound.arrivalAirport.name,
+        country: fare.outbound.arrivalAirport.countryName,
+        days: fare.summary.tripDurationDays,
       };
-      await flights.updateOne(
-        { to: data.to, from: data.from, price: data.price, days: data.days },
-        { $setOnInsert: data },
-        { upsert: true }
+      promises.push(
+        flights.updateOne(
+          { to: data.to, from: data.from, price: data.price, days: data.days },
+          { $setOnInsert: data },
+          { upsert: true }
+        )
       );
-    }
-    console.log(`[${i}] Inserted ${fares.length} flights into DB.`);
+    });
   }
-  client.close();
+  await Promise.all(promises);
+  console.log("Finished all promises");
+  await client.close();
+  console.log('MongoDB connection closed.');
+  process.exit();
 }
 
 run().catch((err) => console.error(err));
