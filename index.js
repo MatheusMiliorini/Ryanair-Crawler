@@ -3,8 +3,6 @@ dotenv.config();
 import axios from "axios";
 import { MongoClient } from "mongodb";
 
-const MONGO_URI = `mongodb+srv://${process.env.MONGO_USER}:${process.env.MONGO_PASS}@cluster0.ndshapd.mongodb.net/?retryWrites=true&w=majority`;
-
 const DATE_START = "2023-01-07";
 const DEPARTURE_AIRPORT = "DUB"; // Shannon - SNN / Dublin - DUB
 const DAYS = 2;
@@ -13,7 +11,7 @@ const WEEK = 7;
 const OUTBOUND_TIME_LIMIT = "12:00";
 const RETURN_TIME_LIMIT = "12:00";
 
-const client = new MongoClient(MONGO_URI);
+const client = new MongoClient(process.env.MONGO_URI);
 
 async function run() {
   const flights = client
