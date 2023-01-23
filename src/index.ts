@@ -41,10 +41,10 @@ app.get('/', async (req: FetchFlightsQuery, res: Response) => {
       daysMin: req.query.daysMin,
       endDate,
       startDate,
-      inboundEnd: req.query.inboundEnd,
-      inboundStart: req.query.inboundStart,
+      departureStart: req.query.departureStart,
       departureEnd: req.query.departureEnd,
-      departureStart: req.query.inboundStart,
+      inboundStart: req.query.inboundStart,
+      inboundEnd: req.query.inboundEnd,
     })
     console.log(`[${i}] Inserting ${fares.length} flights into DB...`)
     fares.forEach((fare) => {
