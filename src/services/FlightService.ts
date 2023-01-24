@@ -1,5 +1,5 @@
 import { IFlightService } from '../interfaces/services/IFlightService'
-import { UpdateResult, Collection, Document } from 'mongodb'
+import { Collection, Document } from 'mongodb'
 
 export class FlightService implements IFlightService {
   constructor(private readonly flightsCollection: Collection<Document>) {}
