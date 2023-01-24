@@ -21,4 +21,5 @@ export namespace IFlightService {
 
 export interface IFlightService {
   save(data: IFlightService.SaveData): Promise<UpdateResult>
+  drop(): Promise<any>
 }

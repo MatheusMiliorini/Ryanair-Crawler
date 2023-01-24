@@ -1,15 +1,14 @@
-import { FetchFlightsResponse } from '../responses/FetchFlightsResponse';
+import { FetchFlightsResponse } from '../responses/FetchFlightsResponse'
 export namespace IRyanairApi {
   export type Params = {
     airport: string
-    startDate: string
-    endDate: string
+    startDate: Date
+    endDate: Date
     daysMin: number
     departureStart: string
     departureEnd: string
     inboundStart: string
     inboundEnd: string
-    dayOfWeek: string
   }
 }
 

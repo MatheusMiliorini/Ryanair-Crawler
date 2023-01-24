@@ -8,5 +8,6 @@ export interface FetchFlightsQuery extends Express.Request {
     departureEnd: string
     inboundStart: string
     inboundEnd: string
+    drop?: boolean
   }
 }
