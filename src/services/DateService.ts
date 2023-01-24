@@ -1,5 +1,15 @@
 import { IDateService } from '../interfaces/services/IDateService'
 
+type DayOfWeekMap = {
+  0: 'SUNDAY'
+  1: 'MONDAY'
+  2: 'TUESDAY'
+  3: 'WEDNESDAY'
+  4: 'THURSDAY'
+  5: 'FRIDAY'
+  6: 'SATURDAY'
+}
+
 export class DateService implements IDateService {
   getEndDate(date: Date, days: number): Date {
     return new Date(
@@ -7,18 +17,16 @@ export class DateService implements IDateService {
     )
   }
 
-  dayOfWeek(day: number): string {
-    return (
-      {
-        0: 'SUNDAY',
-        1: 'MONDAY',
-        2: 'TUESDAY',
-        3: 'WEDNESDAY',
-        4: 'THURSDAY',
-        5: 'FRIDAY',
-        6: 'SATURDAY',
-      }[day] || 'SATURDAY'
-    )
+  dayOfWeek(day: keyof DayOfWeekMap): string {
+    return {
+      0: 'SUNDAY',
+      1: 'MONDAY',
+      2: 'TUESDAY',
+      3: 'WEDNESDAY',
+      4: 'THURSDAY',
+      5: 'FRIDAY',
+      6: 'SATURDAY',
+    }[day]
   }
 
   toDateString(dateTime: Date): string {
