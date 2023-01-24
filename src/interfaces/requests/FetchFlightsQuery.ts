@@ -1,5 +1,5 @@
-export interface FetchFlightsQuery extends Express.Request {
-  query: {
+export namespace FetchFlightsQuery {
+  export type Query = {
     iterations: number
     startDate: string
     daysMin: number
@@ -10,4 +10,8 @@ export interface FetchFlightsQuery extends Express.Request {
     inboundEnd: string
     drop?: boolean
   }
+}
+
+export interface FetchFlightsQuery extends Express.Request {
+  query: FetchFlightsQuery.Query
 }

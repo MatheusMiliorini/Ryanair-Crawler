@@ -12,7 +12,9 @@ export class FlightsController {
     private readonly flightService: IFlightService
   ) {}
 
-  async get(req: FetchFlightsQuery, res: Response): Promise<Response> {
+  async get(
+    req: FetchFlightsQuery
+  ): Promise<{ runId: number; dropped: boolean; imported: number }> {
     const promises: Promise<UpdateResult>[] = []
     const runId = Math.floor(Math.random() * 100000000)
 
@@ -61,10 +63,10 @@ export class FlightsController {
       })
     }
     await Promise.all(promises)
-    return res.json({
+    return {
       runId,
       dropped,
       imported: promises.length,
-    })
+    }
   }
 }

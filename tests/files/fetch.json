@@ -1,0 +1,4097 @@
+{
+  "arrivalAirportCategories": null,
+  "fares": [
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "BHX",
+          "name": "Birmingham",
+          "seoName": "birmingham",
+          "city": {
+            "name": "Birmingham",
+            "code": "BIRMINGHAM",
+            "countryCode": "gb"
+          }
+        },
+        "departureDate": "2023-02-04T20:15:00",
+        "arrivalDate": "2023-02-04T21:20:00",
+        "price": {
+          "value": 17.01,
+          "valueMainUnit": "17",
+          "valueFractionalUnit": "01",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~ 676~ ~~DUB~02/04/2023 20:15~BHX~02/04/2023 21:20~~",
+        "flightNumber": "FR676",
+        "previousPrice": null,
+        "priceUpdated": 1674200519000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "BHX",
+          "name": "Birmingham",
+          "seoName": "birmingham",
+          "city": {
+            "name": "Birmingham",
+            "code": "BIRMINGHAM",
+            "countryCode": "gb"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T08:05:00",
+        "arrivalDate": "2023-02-06T09:10:00",
+        "price": {
+          "value": 13.72,
+          "valueMainUnit": "13",
+          "valueFractionalUnit": "72",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5200~ ~~BHX~02/06/2023 08:05~DUB~02/06/2023 09:10~~",
+        "flightNumber": "FR5200",
+        "previousPrice": null,
+        "priceUpdated": 1673887712000
+      },
+      "summary": {
+        "price": {
+          "value": 30.73,
+          "valueMainUnit": "30",
+          "valueFractionalUnit": "73",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "EMA",
+          "name": "East Midlands",
+          "seoName": "east-midlands",
+          "city": {
+            "name": "East Midlands",
+            "code": "EAST_MIDLANDS",
+            "countryCode": "gb"
+          }
+        },
+        "departureDate": "2023-02-04T23:00:00",
+        "arrivalDate": "2023-02-04T23:55:00",
+        "price": {
+          "value": 9.99,
+          "valueMainUnit": "9",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5759~ ~~DUB~02/04/2023 23:00~EMA~02/04/2023 23:55~~",
+        "flightNumber": "FR5759",
+        "previousPrice": null,
+        "priceUpdated": 1674199887000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "EMA",
+          "name": "East Midlands",
+          "seoName": "east-midlands",
+          "city": {
+            "name": "East Midlands",
+            "code": "EAST_MIDLANDS",
+            "countryCode": "gb"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T07:45:00",
+        "arrivalDate": "2023-02-06T08:50:00",
+        "price": {
+          "value": 22.99,
+          "valueMainUnit": "22",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5438~ ~~EMA~02/06/2023 07:45~DUB~02/06/2023 08:50~~",
+        "flightNumber": "FR5438",
+        "previousPrice": null,
+        "priceUpdated": 1674201989000
+      },
+      "summary": {
+        "price": {
+          "value": 32.98,
+          "valueMainUnit": "32",
+          "valueFractionalUnit": "98",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "NCL",
+          "name": "Newcastle",
+          "seoName": "newcastle",
+          "city": {
+            "name": "Newcastle",
+            "code": "NEWCASTLE",
+            "countryCode": "gb"
+          }
+        },
+        "departureDate": "2023-02-04T21:10:00",
+        "arrivalDate": "2023-02-04T22:20:00",
+        "price": {
+          "value": 15.27,
+          "valueMainUnit": "15",
+          "valueFractionalUnit": "27",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~  16~ ~~DUB~02/04/2023 21:10~NCL~02/04/2023 22:20~~",
+        "flightNumber": "FR16",
+        "previousPrice": null,
+        "priceUpdated": 1674200015000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "NCL",
+          "name": "Newcastle",
+          "seoName": "newcastle",
+          "city": {
+            "name": "Newcastle",
+            "code": "NEWCASTLE",
+            "countryCode": "gb"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T22:10:00",
+        "arrivalDate": "2023-02-06T23:20:00",
+        "price": {
+          "value": 18.39,
+          "valueMainUnit": "18",
+          "valueFractionalUnit": "39",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~ 173~ ~~NCL~02/06/2023 22:10~DUB~02/06/2023 23:20~~",
+        "flightNumber": "FR173",
+        "previousPrice": null,
+        "priceUpdated": 1670830917000
+      },
+      "summary": {
+        "price": {
+          "value": 33.66,
+          "valueMainUnit": "33",
+          "valueFractionalUnit": "66",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "LBA",
+          "name": "Leeds Bradford",
+          "seoName": "leeds",
+          "city": { "name": "Leeds", "code": "LEEDS", "countryCode": "gb" }
+        },
+        "departureDate": "2023-02-04T11:40:00",
+        "arrivalDate": "2023-02-04T12:40:00",
+        "price": {
+          "value": 16.99,
+          "valueMainUnit": "16",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~ 156~ ~~DUB~02/04/2023 11:40~LBA~02/04/2023 12:40~~",
+        "flightNumber": "FR156",
+        "previousPrice": null,
+        "priceUpdated": 1674569042000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "LBA",
+          "name": "Leeds Bradford",
+          "seoName": "leeds",
+          "city": { "name": "Leeds", "code": "LEEDS", "countryCode": "gb" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T07:35:00",
+        "arrivalDate": "2023-02-06T08:35:00",
+        "price": {
+          "value": 20.12,
+          "valueMainUnit": "20",
+          "valueFractionalUnit": "12",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5392~ ~~LBA~02/06/2023 07:35~DUB~02/06/2023 08:35~~",
+        "flightNumber": "FR5392",
+        "previousPrice": null,
+        "priceUpdated": 1674208554000
+      },
+      "summary": {
+        "price": {
+          "value": 37.11,
+          "valueMainUnit": "37",
+          "valueFractionalUnit": "11",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "EDI",
+          "name": "Edinburgh",
+          "seoName": "edinburgh",
+          "city": {
+            "name": "Edinburgh",
+            "code": "EDINBURGH",
+            "countryCode": "gb"
+          }
+        },
+        "departureDate": "2023-02-04T22:00:00",
+        "arrivalDate": "2023-02-04T23:05:00",
+        "price": {
+          "value": 10.99,
+          "valueMainUnit": "10",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5360~ ~~DUB~02/04/2023 22:00~EDI~02/04/2023 23:05~~",
+        "flightNumber": "FR5360",
+        "previousPrice": null,
+        "priceUpdated": 1674199556000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "EDI",
+          "name": "Edinburgh",
+          "seoName": "edinburgh",
+          "city": {
+            "name": "Edinburgh",
+            "code": "EDINBURGH",
+            "countryCode": "gb"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T05:45:00",
+        "arrivalDate": "2023-02-06T06:55:00",
+        "price": {
+          "value": 30.49,
+          "valueMainUnit": "30",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5673~ ~~EDI~02/06/2023 05:45~DUB~02/06/2023 06:55~~",
+        "flightNumber": "FR5673",
+        "previousPrice": null,
+        "priceUpdated": 1674207293000
+      },
+      "summary": {
+        "price": {
+          "value": 41.48,
+          "valueMainUnit": "41",
+          "valueFractionalUnit": "48",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "LPL",
+          "name": "Liverpool",
+          "seoName": "liverpool",
+          "city": {
+            "name": "Liverpool",
+            "code": "LIVERPOOL",
+            "countryCode": "gb"
+          }
+        },
+        "departureDate": "2023-02-04T21:40:00",
+        "arrivalDate": "2023-02-04T22:35:00",
+        "price": {
+          "value": 20.51,
+          "valueMainUnit": "20",
+          "valueFractionalUnit": "51",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5376~ ~~DUB~02/04/2023 21:40~LPL~02/04/2023 22:35~~",
+        "flightNumber": "FR5376",
+        "previousPrice": null,
+        "priceUpdated": 1674572869000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "LPL",
+          "name": "Liverpool",
+          "seoName": "liverpool",
+          "city": {
+            "name": "Liverpool",
+            "code": "LIVERPOOL",
+            "countryCode": "gb"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T06:15:00",
+        "arrivalDate": "2023-02-06T07:10:00",
+        "price": {
+          "value": 22.49,
+          "valueMainUnit": "22",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~1443~ ~~LPL~02/06/2023 06:15~DUB~02/06/2023 07:10~~",
+        "flightNumber": "FR1443",
+        "previousPrice": null,
+        "priceUpdated": 1674199478000
+      },
+      "summary": {
+        "price": {
+          "value": 43.0,
+          "valueMainUnit": "43",
+          "valueFractionalUnit": "00",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "KIR",
+          "name": "Kerry",
+          "seoName": "kerry",
+          "city": { "name": "Kerry", "code": "KERRY", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-04T16:20:00",
+        "arrivalDate": "2023-02-04T17:25:00",
+        "price": {
+          "value": 19.99,
+          "valueMainUnit": "19",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5225~ ~~DUB~02/04/2023 16:20~KIR~02/04/2023 17:25~~",
+        "flightNumber": "FR5225",
+        "previousPrice": null,
+        "priceUpdated": 1674507970000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "KIR",
+          "name": "Kerry",
+          "seoName": "kerry",
+          "city": { "name": "Kerry", "code": "KERRY", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T11:10:00",
+        "arrivalDate": "2023-02-06T12:05:00",
+        "price": {
+          "value": 24.74,
+          "valueMainUnit": "24",
+          "valueFractionalUnit": "74",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5321~ ~~KIR~02/06/2023 11:10~DUB~02/06/2023 12:05~~",
+        "flightNumber": "FR5321",
+        "previousPrice": null,
+        "priceUpdated": 1674545739000
+      },
+      "summary": {
+        "price": {
+          "value": 44.73,
+          "valueMainUnit": "44",
+          "valueFractionalUnit": "73",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Lithuania",
+          "iataCode": "KUN",
+          "name": "Kaunas",
+          "seoName": "kaunas",
+          "city": { "name": "Kaunas", "code": "KAUNAS", "countryCode": "lt" }
+        },
+        "departureDate": "2023-02-04T17:05:00",
+        "arrivalDate": "2023-02-04T22:10:00",
+        "price": {
+          "value": 22.99,
+          "valueMainUnit": "22",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5135~ ~~DUB~02/04/2023 17:05~KUN~02/04/2023 22:10~~",
+        "flightNumber": "FR5135",
+        "previousPrice": null,
+        "priceUpdated": 1674200655000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Lithuania",
+          "iataCode": "KUN",
+          "name": "Kaunas",
+          "seoName": "kaunas",
+          "city": { "name": "Kaunas", "code": "KAUNAS", "countryCode": "lt" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T12:25:00",
+        "arrivalDate": "2023-02-06T13:45:00",
+        "price": {
+          "value": 40.24,
+          "valueMainUnit": "40",
+          "valueFractionalUnit": "24",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5136~ ~~KUN~02/06/2023 12:25~DUB~02/06/2023 13:45~~",
+        "flightNumber": "FR5136",
+        "previousPrice": null,
+        "priceUpdated": 1674202105000
+      },
+      "summary": {
+        "price": {
+          "value": 63.23,
+          "valueMainUnit": "63",
+          "valueFractionalUnit": "23",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "MAN",
+          "name": "Manchester",
+          "seoName": "manchester",
+          "city": {
+            "name": "Manchester",
+            "code": "MANCHESTER",
+            "countryCode": "gb"
+          }
+        },
+        "departureDate": "2023-02-04T21:55:00",
+        "arrivalDate": "2023-02-04T23:00:00",
+        "price": {
+          "value": 16.99,
+          "valueMainUnit": "16",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~6898~ ~~DUB~02/04/2023 21:55~MAN~02/04/2023 23:00~~",
+        "flightNumber": "FR6898",
+        "previousPrice": null,
+        "priceUpdated": 1674200453000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "MAN",
+          "name": "Manchester",
+          "seoName": "manchester",
+          "city": {
+            "name": "Manchester",
+            "code": "MANCHESTER",
+            "countryCode": "gb"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T07:10:00",
+        "arrivalDate": "2023-02-06T08:10:00",
+        "price": {
+          "value": 46.49,
+          "valueMainUnit": "46",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "RK~6991~ ~~MAN~02/06/2023 07:10~DUB~02/06/2023 08:10~~",
+        "flightNumber": "RK6991",
+        "previousPrice": null,
+        "priceUpdated": 1674142589000
+      },
+      "summary": {
+        "price": {
+          "value": 63.48,
+          "valueMainUnit": "63",
+          "valueFractionalUnit": "48",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "STN",
+          "name": "London Stansted",
+          "seoName": "london-stansted",
+          "city": {
+            "name": "London",
+            "code": "LONDON",
+            "macCode": "LON",
+            "countryCode": "gb"
+          }
+        },
+        "departureDate": "2023-02-04T20:45:00",
+        "arrivalDate": "2023-02-04T22:05:00",
+        "price": {
+          "value": 12.23,
+          "valueMainUnit": "12",
+          "valueFractionalUnit": "23",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~ 294~ ~~DUB~02/04/2023 20:45~STN~02/04/2023 22:05~~",
+        "flightNumber": "FR294",
+        "previousPrice": null,
+        "priceUpdated": 1674207291000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "STN",
+          "name": "London Stansted",
+          "seoName": "london-stansted",
+          "city": {
+            "name": "London",
+            "code": "LONDON",
+            "macCode": "LON",
+            "countryCode": "gb"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T06:40:00",
+        "arrivalDate": "2023-02-06T07:55:00",
+        "price": {
+          "value": 51.99,
+          "valueMainUnit": "51",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~ 205~ ~~STN~02/06/2023 06:40~DUB~02/06/2023 07:55~~",
+        "flightNumber": "FR205",
+        "previousPrice": null,
+        "priceUpdated": 1674200132000
+      },
+      "summary": {
+        "price": {
+          "value": 64.22,
+          "valueMainUnit": "64",
+          "valueFractionalUnit": "22",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "BRS",
+          "name": "Bristol",
+          "seoName": "bristol",
+          "city": { "name": "Bristol", "code": "BRISTOL", "countryCode": "gb" }
+        },
+        "departureDate": "2023-02-04T21:15:00",
+        "arrivalDate": "2023-02-04T22:20:00",
+        "price": {
+          "value": 17.35,
+          "valueMainUnit": "17",
+          "valueFractionalUnit": "35",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5246~ ~~DUB~02/04/2023 21:15~BRS~02/04/2023 22:20~~",
+        "flightNumber": "FR5246",
+        "previousPrice": null,
+        "priceUpdated": 1674200247000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "BRS",
+          "name": "Bristol",
+          "seoName": "bristol",
+          "city": { "name": "Bristol", "code": "BRISTOL", "countryCode": "gb" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T08:00:00",
+        "arrivalDate": "2023-02-06T09:05:00",
+        "price": {
+          "value": 47.99,
+          "valueMainUnit": "47",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~4155~ ~~BRS~02/06/2023 08:00~DUB~02/06/2023 09:05~~",
+        "flightNumber": "FR4155",
+        "previousPrice": null,
+        "priceUpdated": 1674545451000
+      },
+      "summary": {
+        "price": {
+          "value": 65.34,
+          "valueMainUnit": "65",
+          "valueFractionalUnit": "34",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "LTN",
+          "name": "London Luton",
+          "seoName": "london-luton",
+          "city": {
+            "name": "London",
+            "code": "LONDON",
+            "macCode": "LON",
+            "countryCode": "gb"
+          }
+        },
+        "departureDate": "2023-02-04T22:30:00",
+        "arrivalDate": "2023-02-04T23:40:00",
+        "price": {
+          "value": 15.9,
+          "valueMainUnit": "15",
+          "valueFractionalUnit": "90",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~6662~ ~~DUB~02/04/2023 22:30~LTN~02/04/2023 23:40~~",
+        "flightNumber": "FR6662",
+        "previousPrice": null,
+        "priceUpdated": 1674200229000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "LTN",
+          "name": "London Luton",
+          "seoName": "london-luton",
+          "city": {
+            "name": "London",
+            "code": "LONDON",
+            "macCode": "LON",
+            "countryCode": "gb"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T07:45:00",
+        "arrivalDate": "2023-02-06T09:00:00",
+        "price": {
+          "value": 57.49,
+          "valueMainUnit": "57",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5198~ ~~LTN~02/06/2023 07:45~DUB~02/06/2023 09:00~~",
+        "flightNumber": "FR5198",
+        "previousPrice": null,
+        "priceUpdated": 1674200102000
+      },
+      "summary": {
+        "price": {
+          "value": 73.39,
+          "valueMainUnit": "73",
+          "valueFractionalUnit": "39",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "GLA",
+          "name": "Glasgow",
+          "seoName": "glasgow",
+          "city": {
+            "name": "Glasgow",
+            "code": "GLASGOW",
+            "macCode": "GLW",
+            "countryCode": "gb"
+          }
+        },
+        "departureDate": "2023-02-04T21:20:00",
+        "arrivalDate": "2023-02-04T22:20:00",
+        "price": {
+          "value": 14.99,
+          "valueMainUnit": "14",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5151~ ~~DUB~02/04/2023 21:20~GLA~02/04/2023 22:20~~",
+        "flightNumber": "FR5151",
+        "previousPrice": null,
+        "priceUpdated": 1674207216000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "GLA",
+          "name": "Glasgow",
+          "seoName": "glasgow",
+          "city": {
+            "name": "Glasgow",
+            "code": "GLASGOW",
+            "macCode": "GLW",
+            "countryCode": "gb"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T07:50:00",
+        "arrivalDate": "2023-02-06T08:50:00",
+        "price": {
+          "value": 67.12,
+          "valueMainUnit": "67",
+          "valueFractionalUnit": "12",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5154~ ~~GLA~02/06/2023 07:50~DUB~02/06/2023 08:50~~",
+        "flightNumber": "FR5154",
+        "previousPrice": null,
+        "priceUpdated": 1674571061000
+      },
+      "summary": {
+        "price": {
+          "value": 82.11,
+          "valueMainUnit": "82",
+          "valueFractionalUnit": "11",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "LGW",
+          "name": "London Gatwick",
+          "seoName": "london-gatwick",
+          "city": {
+            "name": "London",
+            "code": "LONDON",
+            "macCode": "LON",
+            "countryCode": "gb"
+          }
+        },
+        "departureDate": "2023-02-04T18:05:00",
+        "arrivalDate": "2023-02-04T19:30:00",
+        "price": {
+          "value": 13.99,
+          "valueMainUnit": "13",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~ 116~ ~~DUB~02/04/2023 18:05~LGW~02/04/2023 19:30~~",
+        "flightNumber": "FR116",
+        "previousPrice": null,
+        "priceUpdated": 1674206672000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "LGW",
+          "name": "London Gatwick",
+          "seoName": "london-gatwick",
+          "city": {
+            "name": "London",
+            "code": "LONDON",
+            "macCode": "LON",
+            "countryCode": "gb"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T09:40:00",
+        "arrivalDate": "2023-02-06T11:05:00",
+        "price": {
+          "value": 71.99,
+          "valueMainUnit": "71",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~ 143~ ~~LGW~02/06/2023 09:40~DUB~02/06/2023 11:05~~",
+        "flightNumber": "FR143",
+        "previousPrice": null,
+        "priceUpdated": 1674551328000
+      },
+      "summary": {
+        "price": {
+          "value": 85.98,
+          "valueMainUnit": "85",
+          "valueFractionalUnit": "98",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Lithuania",
+          "iataCode": "VNO",
+          "name": "Vilnius",
+          "seoName": "vilnius",
+          "city": { "name": "Vilnius", "code": "VILNIUS", "countryCode": "lt" }
+        },
+        "departureDate": "2023-02-04T08:10:00",
+        "arrivalDate": "2023-02-04T13:20:00",
+        "price": {
+          "value": 58.49,
+          "valueMainUnit": "58",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~2781~ ~~DUB~02/04/2023 08:10~VNO~02/04/2023 13:20~~",
+        "flightNumber": "FR2781",
+        "previousPrice": null,
+        "priceUpdated": 1674149241000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Lithuania",
+          "iataCode": "VNO",
+          "name": "Vilnius",
+          "seoName": "vilnius",
+          "city": { "name": "Vilnius", "code": "VILNIUS", "countryCode": "lt" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T21:45:00",
+        "arrivalDate": "2023-02-06T23:10:00",
+        "price": {
+          "value": 32.12,
+          "valueMainUnit": "32",
+          "valueFractionalUnit": "12",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~7149~ ~~VNO~02/06/2023 21:45~DUB~02/06/2023 23:10~~",
+        "flightNumber": "FR7149",
+        "previousPrice": null,
+        "priceUpdated": 1674202518000
+      },
+      "summary": {
+        "price": {
+          "value": 90.61,
+          "valueMainUnit": "90",
+          "valueFractionalUnit": "61",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "France",
+          "iataCode": "NTE",
+          "name": "Nantes",
+          "seoName": "nantes",
+          "city": { "name": "Nantes", "code": "NANTES", "countryCode": "fr" }
+        },
+        "departureDate": "2023-02-04T17:15:00",
+        "arrivalDate": "2023-02-04T19:50:00",
+        "price": {
+          "value": 27.24,
+          "valueMainUnit": "27",
+          "valueFractionalUnit": "24",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5143~ ~~DUB~02/04/2023 17:15~NTE~02/04/2023 19:50~~",
+        "flightNumber": "FR5143",
+        "previousPrice": null,
+        "priceUpdated": 1674207264000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "France",
+          "iataCode": "NTE",
+          "name": "Nantes",
+          "seoName": "nantes",
+          "city": { "name": "Nantes", "code": "NANTES", "countryCode": "fr" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T22:45:00",
+        "arrivalDate": "2023-02-06T23:20:00",
+        "price": {
+          "value": 68.49,
+          "valueMainUnit": "68",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5144~ ~~NTE~02/06/2023 22:45~DUB~02/06/2023 23:20~~",
+        "flightNumber": "FR5144",
+        "previousPrice": null,
+        "priceUpdated": 1674206152000
+      },
+      "summary": {
+        "price": {
+          "value": 95.73,
+          "valueMainUnit": "95",
+          "valueFractionalUnit": "73",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Poland",
+          "iataCode": "WRO",
+          "name": "Wroclaw",
+          "seoName": "wroclaw",
+          "city": { "name": "Wroclaw", "code": "WROCLAW", "countryCode": "pl" }
+        },
+        "departureDate": "2023-02-04T17:50:00",
+        "arrivalDate": "2023-02-04T21:20:00",
+        "price": {
+          "value": 40.24,
+          "valueMainUnit": "40",
+          "valueFractionalUnit": "24",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~1616~ ~~DUB~02/04/2023 17:50~WRO~02/04/2023 21:20~~",
+        "flightNumber": "FR1616",
+        "previousPrice": null,
+        "priceUpdated": 1674201973000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Poland",
+          "iataCode": "WRO",
+          "name": "Wroclaw",
+          "seoName": "wroclaw",
+          "city": { "name": "Wroclaw", "code": "WROCLAW", "countryCode": "pl" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T17:35:00",
+        "arrivalDate": "2023-02-06T19:20:00",
+        "price": {
+          "value": 62.49,
+          "valueMainUnit": "62",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~1617~ ~~WRO~02/06/2023 17:35~DUB~02/06/2023 19:20~~",
+        "flightNumber": "FR1617",
+        "previousPrice": null,
+        "priceUpdated": 1674200743000
+      },
+      "summary": {
+        "price": {
+          "value": 102.73,
+          "valueMainUnit": "102",
+          "valueFractionalUnit": "73",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Poland",
+          "iataCode": "GDN",
+          "name": "Gdansk",
+          "seoName": "gdansk",
+          "city": { "name": "Gdansk", "code": "GDANSK", "countryCode": "pl" }
+        },
+        "departureDate": "2023-02-04T20:00:00",
+        "arrivalDate": "2023-02-04T23:35:00",
+        "price": {
+          "value": 31.74,
+          "valueMainUnit": "31",
+          "valueFractionalUnit": "74",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~3272~ ~~DUB~02/04/2023 20:00~GDN~02/04/2023 23:35~~",
+        "flightNumber": "FR3272",
+        "previousPrice": null,
+        "priceUpdated": 1674210897000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Poland",
+          "iataCode": "GDN",
+          "name": "Gdansk",
+          "seoName": "gdansk",
+          "city": { "name": "Gdansk", "code": "GDANSK", "countryCode": "pl" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T13:40:00",
+        "arrivalDate": "2023-02-06T15:35:00",
+        "price": {
+          "value": 79.8,
+          "valueMainUnit": "79",
+          "valueFractionalUnit": "80",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~3263~ ~~GDN~02/06/2023 13:40~DUB~02/06/2023 15:35~~",
+        "flightNumber": "FR3263",
+        "previousPrice": null,
+        "priceUpdated": 1674201887000
+      },
+      "summary": {
+        "price": {
+          "value": 111.54,
+          "valueMainUnit": "111",
+          "valueFractionalUnit": "54",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Spain",
+          "iataCode": "AGP",
+          "name": "Malaga",
+          "seoName": "malaga",
+          "city": { "name": "Malaga", "code": "MALAGA", "countryCode": "es" }
+        },
+        "departureDate": "2023-02-04T20:15:00",
+        "arrivalDate": "2023-02-05T00:10:00",
+        "price": {
+          "value": 44.99,
+          "valueMainUnit": "44",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~7044~ ~~DUB~02/04/2023 20:15~AGP~02/05/2023 00:10~~",
+        "flightNumber": "FR7044",
+        "previousPrice": null,
+        "priceUpdated": 1674201946000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Spain",
+          "iataCode": "AGP",
+          "name": "Malaga",
+          "seoName": "malaga",
+          "city": { "name": "Malaga", "code": "MALAGA", "countryCode": "es" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T10:20:00",
+        "arrivalDate": "2023-02-06T12:30:00",
+        "price": {
+          "value": 72.49,
+          "valueMainUnit": "72",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~7047~ ~~AGP~02/06/2023 10:20~DUB~02/06/2023 12:30~~",
+        "flightNumber": "FR7047",
+        "previousPrice": null,
+        "priceUpdated": 1674557792000
+      },
+      "summary": {
+        "price": {
+          "value": 117.48,
+          "valueMainUnit": "117",
+          "valueFractionalUnit": "48",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Spain",
+          "iataCode": "SDR",
+          "name": "Santander",
+          "seoName": "santander",
+          "city": {
+            "name": "Santander",
+            "code": "SANTANDER",
+            "countryCode": "es"
+          }
+        },
+        "departureDate": "2023-02-04T17:10:00",
+        "arrivalDate": "2023-02-04T20:10:00",
+        "price": {
+          "value": 88.99,
+          "valueMainUnit": "88",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5171~ ~~DUB~02/04/2023 17:10~SDR~02/04/2023 20:10~~",
+        "flightNumber": "FR5171",
+        "previousPrice": null,
+        "priceUpdated": 1674200058000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Spain",
+          "iataCode": "SDR",
+          "name": "Santander",
+          "seoName": "santander",
+          "city": {
+            "name": "Santander",
+            "code": "SANTANDER",
+            "countryCode": "es"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T22:30:00",
+        "arrivalDate": "2023-02-06T23:35:00",
+        "price": {
+          "value": 32.12,
+          "valueMainUnit": "32",
+          "valueFractionalUnit": "12",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5177~ ~~SDR~02/06/2023 22:30~DUB~02/06/2023 23:35~~",
+        "flightNumber": "FR5177",
+        "previousPrice": null,
+        "priceUpdated": 1674199548000
+      },
+      "summary": {
+        "price": {
+          "value": 121.11,
+          "valueMainUnit": "121",
+          "valueFractionalUnit": "11",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Germany",
+          "iataCode": "FMM",
+          "name": "Memmingen",
+          "seoName": "munich-memmingen",
+          "city": {
+            "name": "Memmingen",
+            "code": "MEMMINGEN",
+            "countryCode": "de"
+          }
+        },
+        "departureDate": "2023-02-04T06:25:00",
+        "arrivalDate": "2023-02-04T09:45:00",
+        "price": {
+          "value": 28.24,
+          "valueMainUnit": "28",
+          "valueFractionalUnit": "24",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5066~ ~~DUB~02/04/2023 06:25~FMM~02/04/2023 09:45~~",
+        "flightNumber": "FR5066",
+        "previousPrice": null,
+        "priceUpdated": 1674550069000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Germany",
+          "iataCode": "FMM",
+          "name": "Memmingen",
+          "seoName": "munich-memmingen",
+          "city": {
+            "name": "Memmingen",
+            "code": "MEMMINGEN",
+            "countryCode": "de"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T11:00:00",
+        "arrivalDate": "2023-02-06T12:30:00",
+        "price": {
+          "value": 97.24,
+          "valueMainUnit": "97",
+          "valueFractionalUnit": "24",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5067~ ~~FMM~02/06/2023 11:00~DUB~02/06/2023 12:30~~",
+        "flightNumber": "FR5067",
+        "previousPrice": null,
+        "priceUpdated": 1674167708000
+      },
+      "summary": {
+        "price": {
+          "value": 125.48,
+          "valueMainUnit": "125",
+          "valueFractionalUnit": "48",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Italy",
+          "iataCode": "TRN",
+          "name": "Turin",
+          "seoName": "turin",
+          "city": { "name": "Turin", "code": "TURIN", "countryCode": "it" }
+        },
+        "departureDate": "2023-02-04T11:45:00",
+        "arrivalDate": "2023-02-04T15:10:00",
+        "price": {
+          "value": 85.99,
+          "valueMainUnit": "85",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~9444~ ~~DUB~02/04/2023 11:45~TRN~02/04/2023 15:10~~",
+        "flightNumber": "FR9444",
+        "previousPrice": null,
+        "priceUpdated": 1674506818000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Italy",
+          "iataCode": "TRN",
+          "name": "Turin",
+          "seoName": "turin",
+          "city": { "name": "Turin", "code": "TURIN", "countryCode": "it" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T11:00:00",
+        "arrivalDate": "2023-02-06T12:35:00",
+        "price": {
+          "value": 46.99,
+          "valueMainUnit": "46",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~9445~ ~~TRN~02/06/2023 11:00~DUB~02/06/2023 12:35~~",
+        "flightNumber": "FR9445",
+        "previousPrice": null,
+        "priceUpdated": 1671176635000
+      },
+      "summary": {
+        "price": {
+          "value": 132.98,
+          "valueMainUnit": "132",
+          "valueFractionalUnit": "98",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Italy",
+          "iataCode": "MXP",
+          "name": "Milan Malpensa",
+          "seoName": "milan-malpensa",
+          "city": {
+            "name": "Milan",
+            "code": "MILAN",
+            "macCode": "MIL",
+            "countryCode": "it"
+          }
+        },
+        "departureDate": "2023-02-04T13:40:00",
+        "arrivalDate": "2023-02-04T17:10:00",
+        "price": {
+          "value": 76.49,
+          "valueMainUnit": "76",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~6325~ ~~DUB~02/04/2023 13:40~MXP~02/04/2023 17:10~~",
+        "flightNumber": "FR6325",
+        "previousPrice": null,
+        "priceUpdated": 1674200080000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Italy",
+          "iataCode": "MXP",
+          "name": "Milan Malpensa",
+          "seoName": "milan-malpensa",
+          "city": {
+            "name": "Milan",
+            "code": "MILAN",
+            "macCode": "MIL",
+            "countryCode": "it"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T07:20:00",
+        "arrivalDate": "2023-02-06T08:55:00",
+        "price": {
+          "value": 58.49,
+          "valueMainUnit": "58",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~6326~ ~~MXP~02/06/2023 07:20~DUB~02/06/2023 08:55~~",
+        "flightNumber": "FR6326",
+        "previousPrice": null,
+        "priceUpdated": 1674200127000
+      },
+      "summary": {
+        "price": {
+          "value": 134.98,
+          "valueMainUnit": "134",
+          "valueFractionalUnit": "98",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Spain",
+          "iataCode": "MAD",
+          "name": "Madrid",
+          "seoName": "madrid",
+          "city": { "name": "Madrid", "code": "MADRID", "countryCode": "es" }
+        },
+        "departureDate": "2023-02-04T20:05:00",
+        "arrivalDate": "2023-02-04T23:40:00",
+        "price": {
+          "value": 53.49,
+          "valueMainUnit": "53",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5379~ ~~DUB~02/04/2023 20:05~MAD~02/04/2023 23:40~~",
+        "flightNumber": "FR5379",
+        "previousPrice": null,
+        "priceUpdated": 1674200082000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Spain",
+          "iataCode": "MAD",
+          "name": "Madrid",
+          "seoName": "madrid",
+          "city": { "name": "Madrid", "code": "MADRID", "countryCode": "es" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T10:35:00",
+        "arrivalDate": "2023-02-06T12:15:00",
+        "price": {
+          "value": 87.99,
+          "valueMainUnit": "87",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5380~ ~~MAD~02/06/2023 10:35~DUB~02/06/2023 12:15~~",
+        "flightNumber": "FR5380",
+        "previousPrice": null,
+        "priceUpdated": 1674200109000
+      },
+      "summary": {
+        "price": {
+          "value": 141.48,
+          "valueMainUnit": "141",
+          "valueFractionalUnit": "48",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "CWL",
+          "name": "Cardiff",
+          "seoName": "cardiff",
+          "city": { "name": "Cardiff", "code": "CARDIFF", "countryCode": "gb" }
+        },
+        "departureDate": "2023-02-04T19:20:00",
+        "arrivalDate": "2023-02-04T20:20:00",
+        "price": {
+          "value": 17.68,
+          "valueMainUnit": "17",
+          "valueFractionalUnit": "68",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~ 410~ ~~DUB~02/04/2023 19:20~CWL~02/04/2023 20:20~~",
+        "flightNumber": "FR410",
+        "previousPrice": null,
+        "priceUpdated": 1674210934000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "United Kingdom",
+          "iataCode": "CWL",
+          "name": "Cardiff",
+          "seoName": "cardiff",
+          "city": { "name": "Cardiff", "code": "CARDIFF", "countryCode": "gb" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T22:05:00",
+        "arrivalDate": "2023-02-06T23:00:00",
+        "price": {
+          "value": 123.99,
+          "valueMainUnit": "123",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~ 679~ ~~CWL~02/06/2023 22:05~DUB~02/06/2023 23:00~~",
+        "flightNumber": "FR679",
+        "previousPrice": null,
+        "priceUpdated": 1674561935000
+      },
+      "summary": {
+        "price": {
+          "value": 141.67,
+          "valueMainUnit": "141",
+          "valueFractionalUnit": "67",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Belgium",
+          "iataCode": "BRU",
+          "name": "Brussels",
+          "seoName": "brussels-zaventem",
+          "city": {
+            "name": "Brussels",
+            "code": "BRUSSELS",
+            "macCode": "BRL",
+            "countryCode": "be"
+          }
+        },
+        "departureDate": "2023-02-04T16:10:00",
+        "arrivalDate": "2023-02-04T18:50:00",
+        "price": {
+          "value": 91.37,
+          "valueMainUnit": "91",
+          "valueFractionalUnit": "37",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~ 657~ ~~DUB~02/04/2023 16:10~BRU~02/04/2023 18:50~~",
+        "flightNumber": "FR657",
+        "previousPrice": null,
+        "priceUpdated": 1674561029000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Belgium",
+          "iataCode": "BRU",
+          "name": "Brussels",
+          "seoName": "brussels-zaventem",
+          "city": {
+            "name": "Brussels",
+            "code": "BRUSSELS",
+            "macCode": "BRL",
+            "countryCode": "be"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T10:05:00",
+        "arrivalDate": "2023-02-06T10:50:00",
+        "price": {
+          "value": 79.99,
+          "valueMainUnit": "79",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~4199~ ~~BRU~02/06/2023 10:05~DUB~02/06/2023 10:50~~",
+        "flightNumber": "FR4199",
+        "previousPrice": null,
+        "priceUpdated": 1674545541000
+      },
+      "summary": {
+        "price": {
+          "value": 171.36,
+          "valueMainUnit": "171",
+          "valueFractionalUnit": "36",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Austria",
+          "iataCode": "KLU",
+          "name": "Klagenfurt",
+          "seoName": "klagenfurt",
+          "city": {
+            "name": "Klagenfurt",
+            "code": "KLAGENFURT",
+            "countryCode": "at"
+          }
+        },
+        "departureDate": "2023-02-04T11:05:00",
+        "arrivalDate": "2023-02-04T14:30:00",
+        "price": {
+          "value": 150.49,
+          "valueMainUnit": "150",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5267~ ~~DUB~02/04/2023 11:05~KLU~02/04/2023 14:30~~",
+        "flightNumber": "FR5267",
+        "previousPrice": null,
+        "priceUpdated": 1674560125000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Austria",
+          "iataCode": "KLU",
+          "name": "Klagenfurt",
+          "seoName": "klagenfurt",
+          "city": {
+            "name": "Klagenfurt",
+            "code": "KLAGENFURT",
+            "countryCode": "at"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T13:40:00",
+        "arrivalDate": "2023-02-06T15:30:00",
+        "price": {
+          "value": 20.99,
+          "valueMainUnit": "20",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5270~ ~~KLU~02/06/2023 13:40~DUB~02/06/2023 15:30~~",
+        "flightNumber": "FR5270",
+        "previousPrice": null,
+        "priceUpdated": 1674511535000
+      },
+      "summary": {
+        "price": {
+          "value": 171.48,
+          "valueMainUnit": "171",
+          "valueFractionalUnit": "48",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Bulgaria",
+          "iataCode": "SOF",
+          "name": "Sofia",
+          "seoName": "sofia",
+          "city": { "name": "Sofia", "code": "SOFIA", "countryCode": "bg" }
+        },
+        "departureDate": "2023-02-04T06:50:00",
+        "arrivalDate": "2023-02-04T12:30:00",
+        "price": {
+          "value": 55.49,
+          "valueMainUnit": "55",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5203~ ~~DUB~02/04/2023 06:50~SOF~02/04/2023 12:30~~",
+        "flightNumber": "FR5203",
+        "previousPrice": null,
+        "priceUpdated": 1674547555000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Bulgaria",
+          "iataCode": "SOF",
+          "name": "Sofia",
+          "seoName": "sofia",
+          "city": { "name": "Sofia", "code": "SOFIA", "countryCode": "bg" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T12:35:00",
+        "arrivalDate": "2023-02-06T14:35:00",
+        "price": {
+          "value": 123.19,
+          "valueMainUnit": "123",
+          "valueFractionalUnit": "19",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5204~ ~~SOF~02/06/2023 12:35~DUB~02/06/2023 14:35~~",
+        "flightNumber": "FR5204",
+        "previousPrice": null,
+        "priceUpdated": 1674546160000
+      },
+      "summary": {
+        "price": {
+          "value": 178.68,
+          "valueMainUnit": "178",
+          "valueFractionalUnit": "68",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Germany",
+          "iataCode": "BER",
+          "name": "Berlin Brandenburg",
+          "seoName": "brandenburg",
+          "city": {
+            "name": "Berlin",
+            "code": "BERLIN",
+            "macCode": "BER",
+            "countryCode": "de"
+          }
+        },
+        "departureDate": "2023-02-04T18:25:00",
+        "arrivalDate": "2023-02-04T21:45:00",
+        "price": {
+          "value": 68.99,
+          "valueMainUnit": "68",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5418~ ~~DUB~02/04/2023 18:25~BER~02/04/2023 21:45~~",
+        "flightNumber": "FR5418",
+        "previousPrice": null,
+        "priceUpdated": 1674201875000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Germany",
+          "iataCode": "BER",
+          "name": "Berlin Brandenburg",
+          "seoName": "brandenburg",
+          "city": {
+            "name": "Berlin",
+            "code": "BERLIN",
+            "macCode": "BER",
+            "countryCode": "de"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T10:10:00",
+        "arrivalDate": "2023-02-06T11:35:00",
+        "price": {
+          "value": 112.99,
+          "valueMainUnit": "112",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~8559~ ~~BER~02/06/2023 10:10~DUB~02/06/2023 11:35~~",
+        "flightNumber": "FR8559",
+        "previousPrice": null,
+        "priceUpdated": 1673856886000
+      },
+      "summary": {
+        "price": {
+          "value": 181.98,
+          "valueMainUnit": "181",
+          "valueFractionalUnit": "98",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Portugal",
+          "iataCode": "OPO",
+          "name": "Porto",
+          "seoName": "porto",
+          "city": { "name": "Porto", "code": "PORTO", "countryCode": "pt" }
+        },
+        "departureDate": "2023-02-04T15:00:00",
+        "arrivalDate": "2023-02-04T17:25:00",
+        "price": {
+          "value": 76.49,
+          "valueMainUnit": "76",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~7710~ ~~DUB~02/04/2023 15:00~OPO~02/04/2023 17:25~~",
+        "flightNumber": "FR7710",
+        "previousPrice": null,
+        "priceUpdated": 1674560411000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Portugal",
+          "iataCode": "OPO",
+          "name": "Porto",
+          "seoName": "porto",
+          "city": { "name": "Porto", "code": "PORTO", "countryCode": "pt" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T10:10:00",
+        "arrivalDate": "2023-02-06T12:35:00",
+        "price": {
+          "value": 108.24,
+          "valueMainUnit": "108",
+          "valueFractionalUnit": "24",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~7707~ ~~OPO~02/06/2023 10:10~DUB~02/06/2023 12:35~~",
+        "flightNumber": "FR7707",
+        "previousPrice": null,
+        "priceUpdated": 1674142185000
+      },
+      "summary": {
+        "price": {
+          "value": 184.73,
+          "valueMainUnit": "184",
+          "valueFractionalUnit": "73",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Poland",
+          "iataCode": "WMI",
+          "name": "Warsaw Modlin",
+          "seoName": "warsaw-modlin",
+          "city": { "name": "Warsaw", "code": "WARSAW", "countryCode": "pl" }
+        },
+        "departureDate": "2023-02-04T09:55:00",
+        "arrivalDate": "2023-02-04T13:45:00",
+        "price": {
+          "value": 68.99,
+          "valueMainUnit": "68",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~8011~ ~~DUB~02/04/2023 09:55~WMI~02/04/2023 13:45~~",
+        "flightNumber": "FR8011",
+        "previousPrice": null,
+        "priceUpdated": 1674200057000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Poland",
+          "iataCode": "WMI",
+          "name": "Warsaw Modlin",
+          "seoName": "warsaw-modlin",
+          "city": { "name": "Warsaw", "code": "WARSAW", "countryCode": "pl" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T14:55:00",
+        "arrivalDate": "2023-02-06T17:00:00",
+        "price": {
+          "value": 115.99,
+          "valueMainUnit": "115",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~8012~ ~~WMI~02/06/2023 14:55~DUB~02/06/2023 17:00~~",
+        "flightNumber": "FR8012",
+        "previousPrice": null,
+        "priceUpdated": 1674555638000
+      },
+      "summary": {
+        "price": {
+          "value": 184.98,
+          "valueMainUnit": "184",
+          "valueFractionalUnit": "98",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Austria",
+          "iataCode": "VIE",
+          "name": "Vienna",
+          "seoName": "vienna",
+          "city": { "name": "Vienna", "code": "VIENNA", "countryCode": "at" }
+        },
+        "departureDate": "2023-02-04T09:55:00",
+        "arrivalDate": "2023-02-04T13:40:00",
+        "price": {
+          "value": 87.49,
+          "valueMainUnit": "87",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~9738~ ~~DUB~02/04/2023 09:55~VIE~02/04/2023 13:40~~",
+        "flightNumber": "FR9738",
+        "previousPrice": null,
+        "priceUpdated": 1674086659000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Austria",
+          "iataCode": "VIE",
+          "name": "Vienna",
+          "seoName": "vienna",
+          "city": { "name": "Vienna", "code": "VIENNA", "countryCode": "at" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T15:20:00",
+        "arrivalDate": "2023-02-06T17:15:00",
+        "price": {
+          "value": 98.49,
+          "valueMainUnit": "98",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~9737~ ~~VIE~02/06/2023 15:20~DUB~02/06/2023 17:15~~",
+        "flightNumber": "FR9737",
+        "previousPrice": null,
+        "priceUpdated": 1670744520000
+      },
+      "summary": {
+        "price": {
+          "value": 185.98,
+          "valueMainUnit": "185",
+          "valueFractionalUnit": "98",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Romania",
+          "iataCode": "OTP",
+          "name": "Bucharest",
+          "seoName": "Bucharest-Otopeni",
+          "city": {
+            "name": "Bucharest",
+            "code": "BUCHAREST",
+            "countryCode": "ro"
+          }
+        },
+        "departureDate": "2023-02-04T06:30:00",
+        "arrivalDate": "2023-02-04T12:10:00",
+        "price": {
+          "value": 78.99,
+          "valueMainUnit": "78",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5194~ ~~DUB~02/04/2023 06:30~OTP~02/04/2023 12:10~~",
+        "flightNumber": "FR5194",
+        "previousPrice": null,
+        "priceUpdated": 1674495732000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Romania",
+          "iataCode": "OTP",
+          "name": "Bucharest",
+          "seoName": "Bucharest-Otopeni",
+          "city": {
+            "name": "Bucharest",
+            "code": "BUCHAREST",
+            "countryCode": "ro"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T21:35:00",
+        "arrivalDate": "2023-02-06T23:35:00",
+        "price": {
+          "value": 110.99,
+          "valueMainUnit": "110",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~7347~ ~~OTP~02/06/2023 21:35~DUB~02/06/2023 23:35~~",
+        "flightNumber": "FR7347",
+        "previousPrice": null,
+        "priceUpdated": 1674200121000
+      },
+      "summary": {
+        "price": {
+          "value": 189.98,
+          "valueMainUnit": "189",
+          "valueFractionalUnit": "98",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Latvia",
+          "iataCode": "RIX",
+          "name": "Riga",
+          "seoName": "riga",
+          "city": { "name": "Riga", "code": "RIGA", "countryCode": "lv" }
+        },
+        "departureDate": "2023-02-04T06:35:00",
+        "arrivalDate": "2023-02-04T11:35:00",
+        "price": {
+          "value": 68.74,
+          "valueMainUnit": "68",
+          "valueFractionalUnit": "74",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5112~ ~~DUB~02/04/2023 06:35~RIX~02/04/2023 11:35~~",
+        "flightNumber": "FR5112",
+        "previousPrice": null,
+        "priceUpdated": 1674545732000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Latvia",
+          "iataCode": "RIX",
+          "name": "Riga",
+          "seoName": "riga",
+          "city": { "name": "Riga", "code": "RIGA", "countryCode": "lv" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T11:45:00",
+        "arrivalDate": "2023-02-06T13:05:00",
+        "price": {
+          "value": 127.99,
+          "valueMainUnit": "127",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5115~ ~~RIX~02/06/2023 11:45~DUB~02/06/2023 13:05~~",
+        "flightNumber": "FR5115",
+        "previousPrice": null,
+        "priceUpdated": 1674570077000
+      },
+      "summary": {
+        "price": {
+          "value": 196.73,
+          "valueMainUnit": "196",
+          "valueFractionalUnit": "73",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Netherlands",
+          "iataCode": "AMS",
+          "name": "Amsterdam",
+          "seoName": "amsterdam",
+          "city": {
+            "name": "Amsterdam",
+            "code": "AMSTERDAM",
+            "countryCode": "nl"
+          }
+        },
+        "departureDate": "2023-02-04T18:40:00",
+        "arrivalDate": "2023-02-04T21:20:00",
+        "price": {
+          "value": 57.99,
+          "valueMainUnit": "57",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5381~ ~~DUB~02/04/2023 18:40~AMS~02/04/2023 21:20~~",
+        "flightNumber": "FR5381",
+        "previousPrice": null,
+        "priceUpdated": 1674092024000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Netherlands",
+          "iataCode": "AMS",
+          "name": "Amsterdam",
+          "seoName": "amsterdam",
+          "city": {
+            "name": "Amsterdam",
+            "code": "AMSTERDAM",
+            "countryCode": "nl"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T12:40:00",
+        "arrivalDate": "2023-02-06T13:25:00",
+        "price": {
+          "value": 146.24,
+          "valueMainUnit": "146",
+          "valueFractionalUnit": "24",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5506~ ~~AMS~02/06/2023 12:40~DUB~02/06/2023 13:25~~",
+        "flightNumber": "FR5506",
+        "previousPrice": null,
+        "priceUpdated": 1674201704000
+      },
+      "summary": {
+        "price": {
+          "value": 204.23,
+          "valueMainUnit": "204",
+          "valueFractionalUnit": "23",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Italy",
+          "iataCode": "BGY",
+          "name": "Milan Bergamo",
+          "seoName": "milan-bergamo",
+          "city": { "name": "Bergamo", "code": "BERGAMO", "countryCode": "it" }
+        },
+        "departureDate": "2023-02-04T15:45:00",
+        "arrivalDate": "2023-02-04T19:10:00",
+        "price": {
+          "value": 58.49,
+          "valueMainUnit": "58",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~3672~ ~~DUB~02/04/2023 15:45~BGY~02/04/2023 19:10~~",
+        "flightNumber": "FR3672",
+        "previousPrice": null,
+        "priceUpdated": 1674142304000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Italy",
+          "iataCode": "BGY",
+          "name": "Milan Bergamo",
+          "seoName": "milan-bergamo",
+          "city": { "name": "Bergamo", "code": "BERGAMO", "countryCode": "it" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T20:30:00",
+        "arrivalDate": "2023-02-06T22:10:00",
+        "price": {
+          "value": 148.24,
+          "valueMainUnit": "148",
+          "valueFractionalUnit": "24",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~9429~ ~~BGY~02/06/2023 20:30~DUB~02/06/2023 22:10~~",
+        "flightNumber": "FR9429",
+        "previousPrice": null,
+        "priceUpdated": 1673854355000
+      },
+      "summary": {
+        "price": {
+          "value": 206.73,
+          "valueMainUnit": "206",
+          "valueFractionalUnit": "73",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Poland",
+          "iataCode": "KRK",
+          "name": "Krakow",
+          "seoName": "krakow",
+          "city": { "name": "Krakow", "code": "KRAKOW", "countryCode": "pl" }
+        },
+        "departureDate": "2023-02-04T18:15:00",
+        "arrivalDate": "2023-02-04T22:05:00",
+        "price": {
+          "value": 82.49,
+          "valueMainUnit": "82",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~2023~ ~~DUB~02/04/2023 18:15~KRK~02/04/2023 22:05~~",
+        "flightNumber": "FR2023",
+        "previousPrice": null,
+        "priceUpdated": 1674209080000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Poland",
+          "iataCode": "KRK",
+          "name": "Krakow",
+          "seoName": "krakow",
+          "city": { "name": "Krakow", "code": "KRAKOW", "countryCode": "pl" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T22:15:00",
+        "arrivalDate": "2023-02-07T00:20:00",
+        "price": {
+          "value": 124.99,
+          "valueMainUnit": "124",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5394~ ~~KRK~02/06/2023 22:15~DUB~02/07/2023 00:20~~",
+        "flightNumber": "FR5394",
+        "previousPrice": null,
+        "priceUpdated": 1674200109000
+      },
+      "summary": {
+        "price": {
+          "value": 207.48,
+          "valueMainUnit": "207",
+          "valueFractionalUnit": "48",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 3
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Denmark",
+          "iataCode": "CPH",
+          "name": "Copenhagen",
+          "seoName": "copenhagen",
+          "city": {
+            "name": "Copenhagen",
+            "code": "COPENHAGEN",
+            "countryCode": "dk"
+          }
+        },
+        "departureDate": "2023-02-04T18:55:00",
+        "arrivalDate": "2023-02-04T22:05:00",
+        "price": {
+          "value": 27.49,
+          "valueMainUnit": "27",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5070~ ~~DUB~02/04/2023 18:55~CPH~02/04/2023 22:05~~",
+        "flightNumber": "FR5070",
+        "previousPrice": null,
+        "priceUpdated": 1674201941000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Denmark",
+          "iataCode": "CPH",
+          "name": "Copenhagen",
+          "seoName": "copenhagen",
+          "city": {
+            "name": "Copenhagen",
+            "code": "COPENHAGEN",
+            "countryCode": "dk"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T18:20:00",
+        "arrivalDate": "2023-02-06T19:40:00",
+        "price": {
+          "value": 189.99,
+          "valueMainUnit": "189",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5071~ ~~CPH~02/06/2023 18:20~DUB~02/06/2023 19:40~~",
+        "flightNumber": "FR5071",
+        "previousPrice": null,
+        "priceUpdated": 1674130527000
+      },
+      "summary": {
+        "price": {
+          "value": 217.48,
+          "valueMainUnit": "217",
+          "valueFractionalUnit": "48",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "France",
+          "iataCode": "TLS",
+          "name": "Toulouse",
+          "seoName": "toulouse",
+          "city": {
+            "name": "Toulouse",
+            "code": "TOULOUSE",
+            "countryCode": "fr"
+          }
+        },
+        "departureDate": "2023-02-04T06:25:00",
+        "arrivalDate": "2023-02-04T09:40:00",
+        "price": {
+          "value": 151.49,
+          "valueMainUnit": "151",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~1046~ ~~DUB~02/04/2023 06:25~TLS~02/04/2023 09:40~~",
+        "flightNumber": "FR1046",
+        "previousPrice": null,
+        "priceUpdated": 1674200059000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "France",
+          "iataCode": "TLS",
+          "name": "Toulouse",
+          "seoName": "toulouse",
+          "city": {
+            "name": "Toulouse",
+            "code": "TOULOUSE",
+            "countryCode": "fr"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T14:55:00",
+        "arrivalDate": "2023-02-06T16:05:00",
+        "price": {
+          "value": 69.99,
+          "valueMainUnit": "69",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~1043~ ~~TLS~02/06/2023 14:55~DUB~02/06/2023 16:05~~",
+        "flightNumber": "FR1043",
+        "previousPrice": null,
+        "priceUpdated": 1674200181000
+      },
+      "summary": {
+        "price": {
+          "value": 221.48,
+          "valueMainUnit": "221",
+          "valueFractionalUnit": "48",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Portugal",
+          "iataCode": "FAO",
+          "name": "Faro",
+          "seoName": "faro",
+          "city": { "name": "Faro", "code": "FARO", "countryCode": "pt" }
+        },
+        "departureDate": "2023-02-04T20:45:00",
+        "arrivalDate": "2023-02-04T23:35:00",
+        "price": {
+          "value": 24.99,
+          "valueMainUnit": "24",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~7132~ ~~DUB~02/04/2023 20:45~FAO~02/04/2023 23:35~~",
+        "flightNumber": "FR7132",
+        "previousPrice": null,
+        "priceUpdated": 1674571933000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Portugal",
+          "iataCode": "FAO",
+          "name": "Faro",
+          "seoName": "faro",
+          "city": { "name": "Faro", "code": "FARO", "countryCode": "pt" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T19:40:00",
+        "arrivalDate": "2023-02-06T22:45:00",
+        "price": {
+          "value": 212.99,
+          "valueMainUnit": "212",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~7033~ ~~FAO~02/06/2023 19:40~DUB~02/06/2023 22:45~~",
+        "flightNumber": "FR7033",
+        "previousPrice": null,
+        "priceUpdated": 1674513379000
+      },
+      "summary": {
+        "price": {
+          "value": 237.98,
+          "valueMainUnit": "237",
+          "valueFractionalUnit": "98",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Spain",
+          "iataCode": "ACE",
+          "name": "Lanzarote",
+          "seoName": "lanzarote",
+          "city": {
+            "name": "Lanzarote",
+            "code": "LANZAROTE",
+            "countryCode": "es"
+          }
+        },
+        "departureDate": "2023-02-04T07:35:00",
+        "arrivalDate": "2023-02-04T11:45:00",
+        "price": {
+          "value": 104.39,
+          "valueMainUnit": "104",
+          "valueFractionalUnit": "39",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~7199~ ~~DUB~02/04/2023 07:35~ACE~02/04/2023 11:45~~",
+        "flightNumber": "FR7199",
+        "previousPrice": null,
+        "priceUpdated": 1674560120000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Spain",
+          "iataCode": "ACE",
+          "name": "Lanzarote",
+          "seoName": "lanzarote",
+          "city": {
+            "name": "Lanzarote",
+            "code": "LANZAROTE",
+            "countryCode": "es"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T12:05:00",
+        "arrivalDate": "2023-02-06T16:20:00",
+        "price": {
+          "value": 134.8,
+          "valueMainUnit": "134",
+          "valueFractionalUnit": "80",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~7200~ ~~ACE~02/06/2023 12:05~DUB~02/06/2023 16:20~~",
+        "flightNumber": "FR7200",
+        "previousPrice": null,
+        "priceUpdated": 1673877833000
+      },
+      "summary": {
+        "price": {
+          "value": 239.19,
+          "valueMainUnit": "239",
+          "valueFractionalUnit": "19",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Portugal",
+          "iataCode": "LIS",
+          "name": "Lisbon",
+          "seoName": "lisbon",
+          "city": { "name": "Lisbon", "code": "LISBON", "countryCode": "pt" }
+        },
+        "departureDate": "2023-02-04T15:55:00",
+        "arrivalDate": "2023-02-04T18:45:00",
+        "price": {
+          "value": 84.49,
+          "valueMainUnit": "84",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5328~ ~~DUB~02/04/2023 15:55~LIS~02/04/2023 18:45~~",
+        "flightNumber": "FR5328",
+        "previousPrice": null,
+        "priceUpdated": 1674200078000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Portugal",
+          "iataCode": "LIS",
+          "name": "Lisbon",
+          "seoName": "lisbon",
+          "city": { "name": "Lisbon", "code": "LISBON", "countryCode": "pt" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T06:50:00",
+        "arrivalDate": "2023-02-06T09:40:00",
+        "price": {
+          "value": 166.99,
+          "valueMainUnit": "166",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5333~ ~~LIS~02/06/2023 06:50~DUB~02/06/2023 09:40~~",
+        "flightNumber": "FR5333",
+        "previousPrice": null,
+        "priceUpdated": 1674547726000
+      },
+      "summary": {
+        "price": {
+          "value": 251.48,
+          "valueMainUnit": "251",
+          "valueFractionalUnit": "48",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "France",
+          "iataCode": "BVA",
+          "name": "Paris Beauvais",
+          "seoName": "paris-beauvais",
+          "city": {
+            "name": "Paris",
+            "code": "PARIS",
+            "macCode": "PAR",
+            "countryCode": "fr"
+          }
+        },
+        "departureDate": "2023-02-04T19:35:00",
+        "arrivalDate": "2023-02-04T22:05:00",
+        "price": {
+          "value": 26.87,
+          "valueMainUnit": "26",
+          "valueFractionalUnit": "87",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~1860~ ~~DUB~02/04/2023 19:35~BVA~02/04/2023 22:05~~",
+        "flightNumber": "FR1860",
+        "previousPrice": null,
+        "priceUpdated": 1674547534000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "France",
+          "iataCode": "BVA",
+          "name": "Paris Beauvais",
+          "seoName": "paris-beauvais",
+          "city": {
+            "name": "Paris",
+            "code": "PARIS",
+            "macCode": "PAR",
+            "countryCode": "fr"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T22:05:00",
+        "arrivalDate": "2023-02-06T22:45:00",
+        "price": {
+          "value": 230.99,
+          "valueMainUnit": "230",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~1861~ ~~BVA~02/06/2023 22:05~DUB~02/06/2023 22:45~~",
+        "flightNumber": "FR1861",
+        "previousPrice": null,
+        "priceUpdated": 1674545630000
+      },
+      "summary": {
+        "price": {
+          "value": 257.86,
+          "valueMainUnit": "257",
+          "valueFractionalUnit": "86",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Spain",
+          "iataCode": "FUE",
+          "name": "Fuerteventura",
+          "seoName": "fuerteventura",
+          "city": {
+            "name": "Fuerteventura",
+            "code": "FUERTEVENTURA",
+            "countryCode": "es"
+          }
+        },
+        "departureDate": "2023-02-04T14:55:00",
+        "arrivalDate": "2023-02-04T19:10:00",
+        "price": {
+          "value": 128.99,
+          "valueMainUnit": "128",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5072~ ~~DUB~02/04/2023 14:55~FUE~02/04/2023 19:10~~",
+        "flightNumber": "FR5072",
+        "previousPrice": null,
+        "priceUpdated": 1674545733000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Spain",
+          "iataCode": "FUE",
+          "name": "Fuerteventura",
+          "seoName": "fuerteventura",
+          "city": {
+            "name": "Fuerteventura",
+            "code": "FUERTEVENTURA",
+            "countryCode": "es"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T11:10:00",
+        "arrivalDate": "2023-02-06T15:25:00",
+        "price": {
+          "value": 141.99,
+          "valueMainUnit": "141",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5075~ ~~FUE~02/06/2023 11:10~DUB~02/06/2023 15:25~~",
+        "flightNumber": "FR5075",
+        "previousPrice": null,
+        "priceUpdated": 1674561559000
+      },
+      "summary": {
+        "price": {
+          "value": 270.98,
+          "valueMainUnit": "270",
+          "valueFractionalUnit": "98",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Hungary",
+          "iataCode": "BUD",
+          "name": "Budapest",
+          "seoName": "budapest",
+          "city": {
+            "name": "Budapest",
+            "code": "BUDAPEST",
+            "countryCode": "hu"
+          }
+        },
+        "departureDate": "2023-02-04T16:50:00",
+        "arrivalDate": "2023-02-04T20:45:00",
+        "price": {
+          "value": 61.99,
+          "valueMainUnit": "61",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~1025~ ~~DUB~02/04/2023 16:50~BUD~02/04/2023 20:45~~",
+        "flightNumber": "FR1025",
+        "previousPrice": null,
+        "priceUpdated": 1674206526000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Hungary",
+          "iataCode": "BUD",
+          "name": "Budapest",
+          "seoName": "budapest",
+          "city": {
+            "name": "Budapest",
+            "code": "BUDAPEST",
+            "countryCode": "hu"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T21:25:00",
+        "arrivalDate": "2023-02-06T23:40:00",
+        "price": {
+          "value": 211.99,
+          "valueMainUnit": "211",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~1026~ ~~BUD~02/06/2023 21:25~DUB~02/06/2023 23:40~~",
+        "flightNumber": "FR1026",
+        "previousPrice": null,
+        "priceUpdated": 1674200028000
+      },
+      "summary": {
+        "price": {
+          "value": 273.98,
+          "valueMainUnit": "273",
+          "valueFractionalUnit": "98",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Spain",
+          "iataCode": "LPA",
+          "name": "Gran Canaria",
+          "seoName": "gran-canaria",
+          "city": {
+            "name": "Gran Canaria",
+            "code": "GRAN_CANARIA",
+            "countryCode": "es"
+          }
+        },
+        "departureDate": "2023-02-04T06:25:00",
+        "arrivalDate": "2023-02-04T10:50:00",
+        "price": {
+          "value": 134.59,
+          "valueMainUnit": "134",
+          "valueFractionalUnit": "59",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~7126~ ~~DUB~02/04/2023 06:25~LPA~02/04/2023 10:50~~",
+        "flightNumber": "FR7126",
+        "previousPrice": null,
+        "priceUpdated": 1674546393000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Spain",
+          "iataCode": "LPA",
+          "name": "Gran Canaria",
+          "seoName": "gran-canaria",
+          "city": {
+            "name": "Gran Canaria",
+            "code": "GRAN_CANARIA",
+            "countryCode": "es"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T12:15:00",
+        "arrivalDate": "2023-02-06T16:35:00",
+        "price": {
+          "value": 141.99,
+          "valueMainUnit": "141",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~7127~ ~~LPA~02/06/2023 12:15~DUB~02/06/2023 16:35~~",
+        "flightNumber": "FR7127",
+        "previousPrice": null,
+        "priceUpdated": 1674545900000
+      },
+      "summary": {
+        "price": {
+          "value": 276.58,
+          "valueMainUnit": "276",
+          "valueFractionalUnit": "58",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Spain",
+          "iataCode": "BCN",
+          "name": "Barcelona",
+          "seoName": "barcelona-el-prat",
+          "city": {
+            "name": "Barcelona",
+            "code": "BARCELONA",
+            "macCode": "BAR",
+            "countryCode": "es"
+          }
+        },
+        "departureDate": "2023-02-04T17:15:00",
+        "arrivalDate": "2023-02-04T20:40:00",
+        "price": {
+          "value": 89.99,
+          "valueMainUnit": "89",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~ 651~ ~~DUB~02/04/2023 17:15~BCN~02/04/2023 20:40~~",
+        "flightNumber": "FR651",
+        "previousPrice": null,
+        "priceUpdated": 1674571789000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Spain",
+          "iataCode": "BCN",
+          "name": "Barcelona",
+          "seoName": "barcelona-el-prat",
+          "city": {
+            "name": "Barcelona",
+            "code": "BARCELONA",
+            "macCode": "BAR",
+            "countryCode": "es"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T10:35:00",
+        "arrivalDate": "2023-02-06T12:20:00",
+        "price": {
+          "value": 192.99,
+          "valueMainUnit": "192",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5170~ ~~BCN~02/06/2023 10:35~DUB~02/06/2023 12:20~~",
+        "flightNumber": "FR5170",
+        "previousPrice": null,
+        "priceUpdated": 1674571787000
+      },
+      "summary": {
+        "price": {
+          "value": 282.98,
+          "valueMainUnit": "282",
+          "valueFractionalUnit": "98",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Italy",
+          "iataCode": "VCE",
+          "name": "Venice M.Polo",
+          "seoName": "venice",
+          "city": {
+            "name": "Venice",
+            "code": "VENICE",
+            "macCode": "VEN",
+            "countryCode": "it"
+          }
+        },
+        "departureDate": "2023-02-04T16:35:00",
+        "arrivalDate": "2023-02-04T20:20:00",
+        "price": {
+          "value": 109.99,
+          "valueMainUnit": "109",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~ 831~ ~~DUB~02/04/2023 16:35~VCE~02/04/2023 20:20~~",
+        "flightNumber": "FR831",
+        "previousPrice": null,
+        "priceUpdated": 1674567725000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Italy",
+          "iataCode": "VCE",
+          "name": "Venice M.Polo",
+          "seoName": "venice",
+          "city": {
+            "name": "Venice",
+            "code": "VENICE",
+            "macCode": "VEN",
+            "countryCode": "it"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T21:50:00",
+        "arrivalDate": "2023-02-06T23:45:00",
+        "price": {
+          "value": 196.99,
+          "valueMainUnit": "196",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~ 830~ ~~VCE~02/06/2023 21:50~DUB~02/06/2023 23:45~~",
+        "flightNumber": "FR830",
+        "previousPrice": null,
+        "priceUpdated": 1674200632000
+      },
+      "summary": {
+        "price": {
+          "value": 306.98,
+          "valueMainUnit": "306",
+          "valueFractionalUnit": "98",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Spain",
+          "iataCode": "ALC",
+          "name": "Alicante",
+          "seoName": "alicante",
+          "city": {
+            "name": "Alicante",
+            "code": "ALICANTE",
+            "countryCode": "es"
+          }
+        },
+        "departureDate": "2023-02-04T12:50:00",
+        "arrivalDate": "2023-02-04T16:40:00",
+        "price": {
+          "value": 132.99,
+          "valueMainUnit": "132",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~7762~ ~~DUB~02/04/2023 12:50~ALC~02/04/2023 16:40~~",
+        "flightNumber": "FR7762",
+        "previousPrice": null,
+        "priceUpdated": 1674571314000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Spain",
+          "iataCode": "ALC",
+          "name": "Alicante",
+          "seoName": "alicante",
+          "city": {
+            "name": "Alicante",
+            "code": "ALICANTE",
+            "countryCode": "es"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T18:15:00",
+        "arrivalDate": "2023-02-06T20:15:00",
+        "price": {
+          "value": 177.74,
+          "valueMainUnit": "177",
+          "valueFractionalUnit": "74",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~7763~ ~~ALC~02/06/2023 18:15~DUB~02/06/2023 20:15~~",
+        "flightNumber": "FR7763",
+        "previousPrice": null,
+        "priceUpdated": 1674561718000
+      },
+      "summary": {
+        "price": {
+          "value": 310.73,
+          "valueMainUnit": "310",
+          "valueFractionalUnit": "73",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Spain",
+          "iataCode": "TFS",
+          "name": "Tenerife South",
+          "seoName": "tenerife-south",
+          "city": {
+            "name": "Tenerife",
+            "code": "TENERIFE",
+            "macCode": "TEN",
+            "countryCode": "es"
+          }
+        },
+        "departureDate": "2023-02-04T08:10:00",
+        "arrivalDate": "2023-02-04T12:35:00",
+        "price": {
+          "value": 171.24,
+          "valueMainUnit": "171",
+          "valueFractionalUnit": "24",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~7122~ ~~DUB~02/04/2023 08:10~TFS~02/04/2023 12:35~~",
+        "flightNumber": "FR7122",
+        "previousPrice": null,
+        "priceUpdated": 1674560148000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Spain",
+          "iataCode": "TFS",
+          "name": "Tenerife South",
+          "seoName": "tenerife-south",
+          "city": {
+            "name": "Tenerife",
+            "code": "TENERIFE",
+            "macCode": "TEN",
+            "countryCode": "es"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T12:30:00",
+        "arrivalDate": "2023-02-06T16:50:00",
+        "price": {
+          "value": 141.99,
+          "valueMainUnit": "141",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5556~ ~~TFS~02/06/2023 12:30~DUB~02/06/2023 16:50~~",
+        "flightNumber": "FR5556",
+        "previousPrice": null,
+        "priceUpdated": 1674510244000
+      },
+      "summary": {
+        "price": {
+          "value": 313.23,
+          "valueMainUnit": "313",
+          "valueFractionalUnit": "23",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Czech Republic",
+          "iataCode": "PRG",
+          "name": "Prague",
+          "seoName": "prague",
+          "city": { "name": "Prague", "code": "PRAGUE", "countryCode": "cz" }
+        },
+        "departureDate": "2023-02-04T14:10:00",
+        "arrivalDate": "2023-02-04T17:30:00",
+        "price": {
+          "value": 264.99,
+          "valueMainUnit": "264",
+          "valueFractionalUnit": "99",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5211~ ~~DUB~02/04/2023 14:10~PRG~02/04/2023 17:30~~",
+        "flightNumber": "FR5211",
+        "previousPrice": null,
+        "priceUpdated": 1674572841000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Czech Republic",
+          "iataCode": "PRG",
+          "name": "Prague",
+          "seoName": "prague",
+          "city": { "name": "Prague", "code": "PRAGUE", "countryCode": "cz" }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T17:25:00",
+        "arrivalDate": "2023-02-06T19:00:00",
+        "price": {
+          "value": 104.49,
+          "valueMainUnit": "104",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~5214~ ~~PRG~02/06/2023 17:25~DUB~02/06/2023 19:00~~",
+        "flightNumber": "FR5214",
+        "previousPrice": null,
+        "priceUpdated": 1674560491000
+      },
+      "summary": {
+        "price": {
+          "value": 369.48,
+          "valueMainUnit": "369",
+          "valueFractionalUnit": "48",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Spain",
+          "iataCode": "VLC",
+          "name": "Valencia",
+          "seoName": "valencia",
+          "city": {
+            "name": "Valencia",
+            "code": "VALENCIA",
+            "macCode": "VNC",
+            "countryCode": "es"
+          }
+        },
+        "departureDate": "2023-02-04T07:20:00",
+        "arrivalDate": "2023-02-04T10:55:00",
+        "price": {
+          "value": 160.49,
+          "valueMainUnit": "160",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~1740~ ~~DUB~02/04/2023 07:20~VLC~02/04/2023 10:55~~",
+        "flightNumber": "FR1740",
+        "previousPrice": null,
+        "priceUpdated": 1674560023000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Spain",
+          "iataCode": "VLC",
+          "name": "Valencia",
+          "seoName": "valencia",
+          "city": {
+            "name": "Valencia",
+            "code": "VALENCIA",
+            "macCode": "VNC",
+            "countryCode": "es"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T16:25:00",
+        "arrivalDate": "2023-02-06T18:20:00",
+        "price": {
+          "value": 213.74,
+          "valueMainUnit": "213",
+          "valueFractionalUnit": "74",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~1739~ ~~VLC~02/06/2023 16:25~DUB~02/06/2023 18:20~~",
+        "flightNumber": "FR1739",
+        "previousPrice": null,
+        "priceUpdated": 1674200407000
+      },
+      "summary": {
+        "price": {
+          "value": 374.23,
+          "valueMainUnit": "374",
+          "valueFractionalUnit": "23",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": false,
+        "tripDurationDays": 2
+      }
+    },
+    {
+      "outbound": {
+        "departureAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "arrivalAirport": {
+          "countryName": "Italy",
+          "iataCode": "FCO",
+          "name": "Rome Fiumicino",
+          "seoName": "rome-fiumicino",
+          "city": {
+            "name": "Rome",
+            "code": "ROME",
+            "macCode": "ROM",
+            "countryCode": "it"
+          }
+        },
+        "departureDate": "2023-02-04T16:50:00",
+        "arrivalDate": "2023-02-04T20:50:00",
+        "price": {
+          "value": 214.49,
+          "valueMainUnit": "214",
+          "valueFractionalUnit": "49",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~9611~ ~~DUB~02/04/2023 16:50~FCO~02/04/2023 20:50~~",
+        "flightNumber": "FR9611",
+        "previousPrice": null,
+        "priceUpdated": 1674560143000
+      },
+      "inbound": {
+        "departureAirport": {
+          "countryName": "Italy",
+          "iataCode": "FCO",
+          "name": "Rome Fiumicino",
+          "seoName": "rome-fiumicino",
+          "city": {
+            "name": "Rome",
+            "code": "ROME",
+            "macCode": "ROM",
+            "countryCode": "it"
+          }
+        },
+        "arrivalAirport": {
+          "countryName": "Ireland",
+          "iataCode": "DUB",
+          "name": "Dublin",
+          "seoName": "dublin",
+          "city": { "name": "Dublin", "code": "DUBLIN", "countryCode": "ie" }
+        },
+        "departureDate": "2023-02-06T14:10:00",
+        "arrivalDate": "2023-02-06T16:15:00",
+        "price": {
+          "value": 212.79,
+          "valueMainUnit": "212",
+          "valueFractionalUnit": "79",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "flightKey": "FR~9614~ ~~FCO~02/06/2023 14:10~DUB~02/06/2023 16:15~~",
+        "flightNumber": "FR9614",
+        "previousPrice": null,
+        "priceUpdated": 1674545948000
+      },
+      "summary": {
+        "price": {
+          "value": 427.28,
+          "valueMainUnit": "427",
+          "valueFractionalUnit": "28",
+          "currencyCode": "EUR",
+          "currencySymbol": "€"
+        },
+        "previousPrice": null,
+        "newRoute": true,
+        "tripDurationDays": 2
+      }
+    }
+  ],
+  "nextPage": null,
+  "size": 53
+}

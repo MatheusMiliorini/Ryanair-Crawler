@@ -28,7 +28,7 @@ const flightsController = new FlightsController(
 )
 
 app.get('/', async (req: FetchFlightsQuery, res: Response) => {
-  return flightsController.get(req, res)
+  return res.json(await flightsController.get(req))
 })
 
 app.listen(port, () => {
